@@ -1,9 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2020-04-12T12:45:52.614Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="mOEPPfo8gMC_7o_KlB3Q" version="12.9.11" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-12T13:19:02.449Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="W1vTFXuQE5XXJtnB5pR9" version="12.9.11" type="github">
   <diagram id="f4iNGfGUkEjJzXReWPvX" name="VSMCurrent">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1497" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="L1_6_QMRr2lnn1sgYfEx-1" value="Stackeholders&lt;br&gt;PO / Product Area" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.outside_sources;whiteSpace=wrap;align=center;verticalAlign=middle;spacingTop=8;" vertex="1" parent="1">
+          <mxGeometry x="890" y="40" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="L1_6_QMRr2lnn1sgYfEx-14" value="Production&#xa;Control" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=41;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="550" y="10" width="160" height="80" as="geometry">
+            <mxRectangle x="350" y="100" width="100" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L1_6_QMRr2lnn1sgYfEx-36" value="QA" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=41;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="850" y="230" width="160" height="80" as="geometry">
+            <mxRectangle x="350" y="100" width="100" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L1_6_QMRr2lnn1sgYfEx-37" value="Product Area / PO / BA" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=41;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="210" y="230" width="160" height="80" as="geometry">
+            <mxRectangle x="350" y="100" width="100" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L1_6_QMRr2lnn1sgYfEx-38" value="Development" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=41;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="430" y="230" width="160" height="80" as="geometry">
+            <mxRectangle x="350" y="100" width="100" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L1_6_QMRr2lnn1sgYfEx-39" value="DevOps" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=41;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="640" y="230" width="160" height="80" as="geometry">
+            <mxRectangle x="350" y="100" width="100" height="41" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L1_6_QMRr2lnn1sgYfEx-41" value="Laboratories / &lt;br&gt;Market Research" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.outside_sources;whiteSpace=wrap;align=center;verticalAlign=middle;spacingTop=8;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="120" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
