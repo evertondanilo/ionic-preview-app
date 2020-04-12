@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-12T14:10:52.054Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="ndVLOaXEEdB815ZeTwEU" version="12.9.11" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-12T14:18:34.121Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="XA1JM9sgc6QAoEQHxDVA" version="12.9.11" type="github">
   <diagram id="f4iNGfGUkEjJzXReWPvX" name="VSMCurrent">
     <mxGraphModel dx="948" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -129,37 +129,37 @@
         <mxCell id="L1_6_QMRr2lnn1sgYfEx-114" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="200" y="490" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="L1_6_QMRr2lnn1sgYfEx-107" value="&lt;span style=&quot;font-size: 14px&quot;&gt;C/T =&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="L1_6_QMRr2lnn1sgYfEx-114">
+        <mxCell id="L1_6_QMRr2lnn1sgYfEx-107" value="&lt;span style=&quot;font-size: 14px&quot;&gt;C/T = 24 hours&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="L1_6_QMRr2lnn1sgYfEx-114">
           <mxGeometry width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="L1_6_QMRr2lnn1sgYfEx-111" value="&lt;span style=&quot;font-size: 14px&quot;&gt;C/O =&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="L1_6_QMRr2lnn1sgYfEx-114">
+        <mxCell id="L1_6_QMRr2lnn1sgYfEx-111" value="&lt;span style=&quot;font-size: 14px&quot;&gt;C/O = 2 hours&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="L1_6_QMRr2lnn1sgYfEx-114">
           <mxGeometry y="40" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="L1_6_QMRr2lnn1sgYfEx-115" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="413" y="490" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="L1_6_QMRr2lnn1sgYfEx-116" value="&lt;span style=&quot;font-size: 14px&quot;&gt;C/T =&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="L1_6_QMRr2lnn1sgYfEx-115">
+        <mxCell id="L1_6_QMRr2lnn1sgYfEx-116" value="&lt;span style=&quot;font-size: 14px&quot;&gt;C/T = 16 hours&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="L1_6_QMRr2lnn1sgYfEx-115">
           <mxGeometry width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="L1_6_QMRr2lnn1sgYfEx-117" value="&lt;span style=&quot;font-size: 14px&quot;&gt;C/O =&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="L1_6_QMRr2lnn1sgYfEx-115">
+        <mxCell id="L1_6_QMRr2lnn1sgYfEx-117" value="&lt;span style=&quot;font-size: 14px&quot;&gt;C/O = 2 hours&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="L1_6_QMRr2lnn1sgYfEx-115">
           <mxGeometry y="40" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="L1_6_QMRr2lnn1sgYfEx-118" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="625" y="490" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="L1_6_QMRr2lnn1sgYfEx-119" value="&lt;span style=&quot;font-size: 14px&quot;&gt;C/T =&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="L1_6_QMRr2lnn1sgYfEx-118">
+        <mxCell id="L1_6_QMRr2lnn1sgYfEx-119" value="&lt;span style=&quot;font-size: 14px&quot;&gt;C/T = 4 hours&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="L1_6_QMRr2lnn1sgYfEx-118">
           <mxGeometry width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="L1_6_QMRr2lnn1sgYfEx-120" value="&lt;span style=&quot;font-size: 14px&quot;&gt;C/O =&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="L1_6_QMRr2lnn1sgYfEx-118">
+        <mxCell id="L1_6_QMRr2lnn1sgYfEx-120" value="&lt;span style=&quot;font-size: 14px&quot;&gt;C/O = 1 hour&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="L1_6_QMRr2lnn1sgYfEx-118">
           <mxGeometry y="40" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="L1_6_QMRr2lnn1sgYfEx-121" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="837" y="490" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="L1_6_QMRr2lnn1sgYfEx-122" value="&lt;span style=&quot;font-size: 14px&quot;&gt;C/T =&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="L1_6_QMRr2lnn1sgYfEx-121">
+        <mxCell id="L1_6_QMRr2lnn1sgYfEx-122" value="&lt;span style=&quot;font-size: 14px&quot;&gt;C/T = 8 hours&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="L1_6_QMRr2lnn1sgYfEx-121">
           <mxGeometry width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="L1_6_QMRr2lnn1sgYfEx-123" value="&lt;span style=&quot;font-size: 14px&quot;&gt;C/O =&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="L1_6_QMRr2lnn1sgYfEx-121">
+        <mxCell id="L1_6_QMRr2lnn1sgYfEx-123" value="&lt;span style=&quot;font-size: 14px&quot;&gt;C/O = 2 hours&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="L1_6_QMRr2lnn1sgYfEx-121">
           <mxGeometry y="40" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="L1_6_QMRr2lnn1sgYfEx-131" value="" style="group" vertex="1" connectable="0" parent="1">
