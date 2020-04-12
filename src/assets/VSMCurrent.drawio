@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-12T14:54:42.307Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="B2uTculGIbG8Qw_xQZjc" version="12.9.11" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-12T15:02:54.810Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="7DdSmH4cHp2l1OSysVi2" version="12.9.11" type="github">
   <diagram id="f4iNGfGUkEjJzXReWPvX" name="VSMCurrent">
-    <mxGraphModel dx="2585" dy="1444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1237" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -186,26 +186,26 @@
         <mxCell id="L1_6_QMRr2lnn1sgYfEx-153" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="L1_6_QMRr2lnn1sgYfEx-131">
           <mxGeometry x="800" y="-17" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="L1_6_QMRr2lnn1sgYfEx-150" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Total Lead Time =&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="L1_6_QMRr2lnn1sgYfEx-153">
+        <mxCell id="L1_6_QMRr2lnn1sgYfEx-150" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Total Lead Time = 725 h&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="L1_6_QMRr2lnn1sgYfEx-153">
           <mxGeometry width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="L1_6_QMRr2lnn1sgYfEx-151" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Value Added Time =&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="L1_6_QMRr2lnn1sgYfEx-153">
+        <mxCell id="L1_6_QMRr2lnn1sgYfEx-151" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Value Add Time = 52 h&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="L1_6_QMRr2lnn1sgYfEx-153">
           <mxGeometry y="40" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="L1_6_QMRr2lnn1sgYfEx-152" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Activity Ratio =&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="L1_6_QMRr2lnn1sgYfEx-153">
+        <mxCell id="L1_6_QMRr2lnn1sgYfEx-152" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Activity Ratio = 7.17%&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="L1_6_QMRr2lnn1sgYfEx-153">
           <mxGeometry y="80" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="L1_6_QMRr2lnn1sgYfEx-141" value="2 weeks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="496.5" y="574" width="72" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="L1_6_QMRr2lnn1sgYfEx-144" value="2 weeks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="281.5" y="574" width="72" height="20" as="geometry" />
+        <mxCell id="L1_6_QMRr2lnn1sgYfEx-144" value="2 weeks &lt;br&gt;(336 hours)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="260" y="559.9999999999999" width="120" height="34" as="geometry" />
         </mxCell>
         <mxCell id="L1_6_QMRr2lnn1sgYfEx-145" value="0.5 hour" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="708.5" y="574" width="72" height="20" as="geometry" />
         </mxCell>
         <mxCell id="L1_6_QMRr2lnn1sgYfEx-148" value="Current VSM for&lt;br&gt;Only one Feature Request" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;fontSize=14;align=center;" vertex="1" parent="1">
           <mxGeometry x="110" y="60" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="L1_6_QMRr2lnn1sgYfEx-154" value="2 weeks &lt;br&gt;(336 hours)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="472.5" y="559.9999999999999" width="120" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
